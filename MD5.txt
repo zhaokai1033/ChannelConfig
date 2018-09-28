@@ -1,4 +1,4 @@
-﻿服务器资源目录(https://raw.githubusercontent.com/joymeng/ChannelConfig/master/配置文件/)
+﻿服务器资源目录(https://raw.githubusercontent.com/joymeng/ChannelConfig/master/)
 本地资源目录(E:\GitHub\ChannelConfig\trunk\)
 
 待更新文件(
