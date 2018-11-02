@@ -562,7 +562,7 @@
 配置文件/0002973_小米海外/v1.0.5/渠道参数配置_167_小米海外.docx(b28f34fadc0519a85ecc538e87930423)
 配置文件/0002973_小米海外/v1.0.5_2/v1.0.5_source配置_167_xiaomihaiwai_2.7z(f5fd057a3fc88c0427c32bfd5645af31)
 配置文件/0002973_小米海外/v1.0.5_2/渠道参数配置_167_小米海外.docx(b28f34fadc0519a85ecc538e87930423)
-配置文件/0002974_BTGame海外/v8.0.2/source配置_168_v8.0.2_btgamehaiwai.7z(3620f1786f8afd6d37474d3bc66c12e9)
+配置文件/0002974_BTGame海外/v8.0.2/source配置_168_v8.0.2_btgamehaiwai.7z(01b7c725d90c1f3d2b6775e3f5b8eafc)
 配置文件/0002974_BTGame海外/v8.0.2/渠道参数配置_168_BTGame海外.docx(29e60383615b0e567c1ae15a0c8fc3cd)
 配置文件/4000000_腾讯/v1.3.6/Gen_Signature_Android2.apk(fc5ab0ba1efada5cc985e97504e53d2c)
 配置文件/4000000_腾讯/v1.3.6/source配置_35_v1.3.6_841_YSDK.7z(fe15d1cc04c8ecfa0bcdc47a43aa7db7)
