@@ -1,0 +1,23 @@
+-
+获取apk签名信息，文件：D:\sci\ADT\workspace\LT_SDK\165_蓝叠\v1.4_ltsdk_165_landi
+e\bin\ltsdk_165_v1.4_landie_sign.apk
+所有者: EMAILADDRESS=OpenSSL@gmail.com, CN=letang, OU=letang, O=letang, L=Hefei,
+ ST=Anhui, C=CN
+发布者: EMAILADDRESS=OpenSSL@gmail.com, CN=letang, OU=letang, O=letang, L=Hefei,
+ ST=Anhui, C=CN
+有效期开始日期: Tue Oct 09 09:34:23 CST 2012, 截止日期: Sun Jul 25 09:34:23 CST
+2286
+证书指纹:
+         MD5: F9:7E:B0:5E:07:FB:5A:35:CB:51:EA:5C:B3:99:A1:63
+         SHA1: 21:F1:4D:1D:B5:CA:C8:22:E2:11:86:DC:A5:82:83:87:1E:31:34:A9
+         SHA256: C2:BC:6C:A7:DC:13:7C:61:3A:2C:B2:BA:FE:56:CC:D0:64:B7:AB:39:5B:
+5B:87:E4:A6:9A:F5:43:09:53:88:5C
+请按任意键继续. . .
+
+---------------------------------------------------------
+
+f97eb05e07fb5a35cb51ea5cb399a163
+
+MD5: F9:7E:B0:5E:07:FB:5A:35:CB:51:EA:5C:B3:99:A1:63
+SHA1: 21:F1:4D:1D:B5:CA:C8:22:E2:11:86:DC:A5:82:83:87:1E:31:34:A9
+SHA256: C2:BC:6C:A7:DC:13:7C:61:3A:2C:B2:BA:FE:56:CC:D0:64:B7:AB:39:5B:5B:87:E4:A6:9A:F5:43:09:53:88:5C
