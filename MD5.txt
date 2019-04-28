@@ -715,6 +715,8 @@
 配置文件/0002989_闲兔/v3.1.0/渠道参数配置_173_闲兔.docx(6f7daa2e57826d6e8ddd8b5b5bf3b4ca)
 配置文件/0003067_Quick/v2.3.6/source配置_401_v2.3.6_quick.zip(6088a4c5f5900386b0436ee2cbd8839)
 配置文件/0003067_Quick/v2.3.6/渠道参数配置_401_Quick.docx(a26bd5f0f69c82a87e0c5699d8eca91e)
+配置文件/0003068_小七海外/v1.0/source配置_174_v1.0_xiaoqiHW.7z(7f62e8877c1813b4f7816f8f11c4d7b8)
+配置文件/0003068_小七海外/v1.0/渠道参数配置_174_小七海外.docx(0f17fab957b20763bb2aa858a13617bc)
 配置文件/4000000_腾讯/v1.3.6/Gen_Signature_Android2.apk(fc5ab0ba1efada5cc985e97504e53d2c)
 配置文件/4000000_腾讯/v1.3.6/source配置_35_v1.3.6_841_YSDK.7z(fe15d1cc04c8ecfa0bcdc47a43aa7db7)
 配置文件/4000000_腾讯/v1.3.6/渠道参数配置_35_腾讯.docx(ad98c4116e4784376d442138c9046d4)
