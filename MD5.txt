@@ -724,7 +724,7 @@
 配置文件/0002989_闲兔/v3.1.0/渠道参数配置_173_闲兔.docx(6f7daa2e57826d6e8ddd8b5b5bf3b4ca)
 配置文件/0003067_Quick/v2.3.6/source配置_401_v2.3.6_quick.zip(6088a4c5f5900386b0436ee2cbd8839)
 配置文件/0003067_Quick/v2.3.6/渠道参数配置_401_Quick.docx(a26bd5f0f69c82a87e0c5699d8eca91e)
-配置文件/0003067_Quick/v2.3.6_2/source配置_401_v2.3.6_quick.zip(09f0490ec0e97b5276c34e2d96616dfe)
+配置文件/0003067_Quick/v2.3.6_2/source配置_401_v2.3.6_quick.zip(c8ba3062af0dba59b96f8482e76d0a34)
 配置文件/0003067_Quick/v2.3.6_2/渠道参数配置_401_Quick.docx(a26bd5f0f69c82a87e0c5699d8eca91e)
 配置文件/0003068_小七海外/v1.0/source配置_174_v1.0_xiaoqiHW.7z(7f62e8877c1813b4f7816f8f11c4d7b8)
 配置文件/0003068_小七海外/v1.0/渠道参数配置_174_小七海外.docx(0f17fab957b20763bb2aa858a13617bc)
